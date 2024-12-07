@@ -13,7 +13,7 @@ For the development of the model we will use the `Churn` dataset and apply the f
 
 - Logistic Regression
 - Decision Tree
-- Random Forest
+- Random Forest 
 
 The overall data will be split into training, validation, and test sets. Models will be trained and fine-tuned using the training and validation sets, with the goal of optimizing hyperparameters to achieve maximum accuracy. Once the optimal hyperparameters are established, the models will be evaluated using the test set, and the one with the highest accuracy will be selected as the final model.
 
